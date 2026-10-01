@@ -42,4 +42,4 @@
 
 ---
 
-<p align="center">⭐ Like something you see? Leave a star, or message me about a project.</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tawheedul-islam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/> </p> <p align="center">⭐ Like something you see? Leave a star, or message me about a project.</p>
