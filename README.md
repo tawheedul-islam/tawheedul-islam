@@ -38,7 +38,6 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawheedul-islam&layout=compact&hide_border=true" alt="Top languages"/>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tawheedul-islam&show_icons=true&locale=en" alt="tawheedul-islam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tawheedul-islam&" alt="tawheedul-islam" /></p>
 
